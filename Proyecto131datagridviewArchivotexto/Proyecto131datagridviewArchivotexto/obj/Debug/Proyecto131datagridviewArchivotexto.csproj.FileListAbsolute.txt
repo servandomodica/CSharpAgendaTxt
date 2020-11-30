@@ -1,0 +1,10 @@
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto131datagridviewArchivotexto\Proyecto131datagridviewArchivotexto\bin\Debug\Proyecto131datagridviewArchivotexto.exe.config
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto131datagridviewArchivotexto\Proyecto131datagridviewArchivotexto\bin\Debug\Proyecto131datagridviewArchivotexto.exe
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto131datagridviewArchivotexto\Proyecto131datagridviewArchivotexto\bin\Debug\Proyecto131datagridviewArchivotexto.pdb
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto131datagridviewArchivotexto\Proyecto131datagridviewArchivotexto\obj\Debug\Proyecto131datagridviewArchivotexto.Form1.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto131datagridviewArchivotexto\Proyecto131datagridviewArchivotexto\obj\Debug\Proyecto131datagridviewArchivotexto.Properties.Resources.resources
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto131datagridviewArchivotexto\Proyecto131datagridviewArchivotexto\obj\Debug\Proyecto131datagridviewArchivotexto.csproj.GenerateResource.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto131datagridviewArchivotexto\Proyecto131datagridviewArchivotexto\obj\Debug\Proyecto131datagridviewArchivotexto.csproj.CoreCompileInputs.cache
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto131datagridviewArchivotexto\Proyecto131datagridviewArchivotexto\obj\Debug\Proyecto131datagridviewArchivotexto.exe
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto131datagridviewArchivotexto\Proyecto131datagridviewArchivotexto\obj\Debug\Proyecto131datagridviewArchivotexto.pdb
+F:\Servando\Office\Estudio\2020\2do semestre\ASC\Técnicas de progr 2\Proyectos\Proyecto131datagridviewArchivotexto\Proyecto131datagridviewArchivotexto\obj\Debug\Proyecto131datagridviewArchivotexto.csprojAssemblyReference.cache
